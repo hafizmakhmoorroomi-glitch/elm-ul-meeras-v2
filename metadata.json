@@ -1,0 +1,6 @@
+{
+  "name": "Hanafi Inheritance Calculator",
+  "description": "فقہِ حنفی کے مطابق میراث کی تقسیم کا خودکار اور مستند کیلکولیٹر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
